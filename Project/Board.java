@@ -190,6 +190,7 @@ public class Board {
 
 	public void switchPlayer() {
 		currentTurn = (currentTurn == 'X') ? 'O' : 'X';	
+		System.out.println("  ");
 	}
 
 	public int getSize() {
