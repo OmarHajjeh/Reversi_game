@@ -189,8 +189,7 @@ public class Board {
 	}
 
 	public void switchPlayer() {
-		currentTurn = (currentTurn == 'X') ? 'O' : 'X';
-		System.out.println("Switching to player " + currentTurn);
+		currentTurn = (currentTurn == 'X') ? 'O' : 'X';	
 	}
 
 	public int getSize() {
