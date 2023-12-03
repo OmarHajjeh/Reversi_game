@@ -33,3 +33,8 @@ The game supports three modes:
 My focus was on providing a thoughtful implementation of the Minimax algorithm, coupled with an evaluation function, to enable strategic decision-making for the AI player.
 
 The Minimax algorithm's application for AI decision-making underscored my understanding of game tree exploration and optimization techniques, including the clever use of alpha-beta pruning.
+
+# AI VS AI test
+
+![ai vs ai 3](https://github.com/OmarHajjeh/Reversi_game/assets/134964735/66ac5933-5831-4f1b-9df2-deba921c31ee)
+
